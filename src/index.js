@@ -20,7 +20,7 @@ const jurassicWorldGenres = ['Action', 'Adventure', 'Science Fiction', 'Thriller
 
 ReactDOM.render(
   <MovieCard
-    title ="Jurassic World"
+    title="Jurassic World"
     genres={jurassicWorldGenres}
   />,
   document.getElementById('root')
